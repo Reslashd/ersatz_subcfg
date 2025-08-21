@@ -13,7 +13,7 @@ Ersatz TV config for Music Video credits (MTV Style)
 <BR>In ErsatzTV configure the channel to use: 
 <BR>Music Video Credits Mode = Generate Subtitles
 <BR>Music Video Credits Template = reslashd_credits.sbntxt
-<BR>Tested with Ersatz Version: 25.4.0-docker-amd64
+<BR>Tested with Ersatz TV Version: 25.4.0-docker-amd64
 <BR>
 <BR>This will display the following information:
 <BR>Artist
