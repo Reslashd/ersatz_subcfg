@@ -10,7 +10,6 @@ Ersatz TV config for Music Video credits (MTV Style)
 <BR>Please see the example NFO for the required format.
 <BR>Place the .SBNTXT file in the /ersatztv/config/templates/music-video-credits/ directory.
 <BR>
-<BR>
 <BR>In ErsatzTV configure the channel to use: 
 <BR>Music Video Credits Mode = Generate Subtitles
 <BR>Music Video Credits Template = reslashd_credits.sbntxt
