@@ -5,8 +5,8 @@ Ersatz TV config for Music Video credits (MTV Style)
 <BR>With this config the credits will appear near the beginning of the video (or start of stream) and near the end of the video.
 <BR>The ending credits do not show up if you start streaming half way in a video (not sure why but for now I don't care).
 <BR>
-<BR>Example PATH for clips \Videoclips\Artistname\Videoclip.mp4
-<BR>Create a NFO with the same name in the same directory which in this case is \Videoclips\Artistname\Videoclip.nfo
+<BR>Example PATH for clips /Videoclips/Artistname/Videoclip.mp4
+<BR>Create a NFO with the same name in the same directory which in this case is /Videoclips/Artistname/Videoclip.nfo
 <BR>Please see the example NFO for the required format.
 <BR>Place the .SBNTXT file in the /ersatztv/config/templates/music-video-credits/ directory.
 <BR>
